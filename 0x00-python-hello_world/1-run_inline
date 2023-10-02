@@ -1,2 +1,2 @@
-#!/usr/bin/python3
+#!/bin/bash
 print(F"How long have we been together: {1+3}")
