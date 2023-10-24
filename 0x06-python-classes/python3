@@ -1,0 +1,46 @@
+class Square:
+    """
+    This is a class which defines a square.
+
+    Attributes:
+        size (int): The size of the square.
+    """
+    def __init__(self, size):
+        """
+        The constructor for Square class.
+
+        Parameters:
+           size (int): The size of the square.
+        """
+        self.__size = size
+class Square:
+    """
+    This is a class which defines a square.
+
+    Attributes:
+        size (int): The size of the square.
+    """
+    def __init__(self, size):
+        """
+        The constructor for Square class.
+
+        Parameters:
+           size (int): The size of the square.
+        """
+        self.__size = size
+def my_function():
+    """
+    This is a function that does something.
+    """
+    pass
+
+class MyClass:
+    """
+    This is a class which does something.
+    """
+
+    def my_method(self):
+        """
+        This is a method that does something.
+        """
+        pass
